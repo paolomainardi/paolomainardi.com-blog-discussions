@@ -1,7 +1,5 @@
 # Paolomainardi.com - Discussions
 
-# Discussion Repository for paolomainardi.com
-
 Welcome to the official discussion repository for posts published on [paolomainardi.com](https://www.paolomainardi.com)!
 
 ## Purpose
