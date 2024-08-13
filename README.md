@@ -1,4 +1,4 @@
-# Paolomainardi.com - Blog discussions
+# Paolomainardi.com - Discussions
 
 # Discussion Repository for paolomainardi.com
 
